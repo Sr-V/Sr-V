@@ -12,7 +12,7 @@ You can find me 🌐:
 - [Twitter](https://twitter.com/Sr_Victor_1)
 - [Youtube](https://www.youtube.com/channel/UC-4JT-ri2QX0tQZm_WE8kbw)
 - [Twitch](https://www.twitch.tv/sr_v1)
-- [Discord](https://discord.com/8VzHuxM89u)
+- [Discord](https://discord.gg/8VzHuxM89u)
 
 <!--
 **Sr-V/Sr-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
