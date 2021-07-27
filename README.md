@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi, I'm Victor 👋
+
+![banner_sr_v](https://user-images.githubusercontent.com/59750774/127085254-bf2f2638-9761-4095-8998-4ae78bc1bf66.jpg)
+Banner by: [@TadaCake](https://github.com/TadaCake)
+```js
+const Sr_V = {
+ pronouns: "He" | "Him",
+}
+```
+
+You can find me 🌐:
+- [Twitter](https://twitter.com/Sr_Victor_1)
+- [Youtube](https://www.youtube.com/channel/UC-4JT-ri2QX0tQZm_WE8kbw)
+- [Twitch](https://www.twitch.tv/sr_v1)
+- [Discord](https://discord.com/8VzHuxM89u)
 
 <!--
 **Sr-V/Sr-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
