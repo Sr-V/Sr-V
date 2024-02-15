@@ -13,12 +13,6 @@ const Sr_V = {
 }
 ```
 
-### You can find me:
-- [🐦 Twitter](https://twitter.com/Sr_Victor_1)
-- [📺 Youtube](https://www.youtube.com/channel/UC-4JT-ri2QX0tQZm_WE8kbw)
-- [👾 Twitch](https://www.twitch.tv/sr_v1)
-- [💻 Discord](https://discord.gg/8VzHuxM89u)
-
 ### Some stats:
 <details>
   <summary> 🔢 Github Stats</summary>
