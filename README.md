@@ -15,10 +15,6 @@ const Sr_V = {
 
 ### Some stats:
 <details>
-  <summary> 🔢 Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=Sr-V&show_icons=true&theme=dark&count_private=true&hide=prs,issues">
-</details>
-<details>
   <summary> 🧮 Profile Visitor Count...</summary>
 <img src="https://profile-counter.glitch.me/{Sr-V}/count.svg">
  </details>
