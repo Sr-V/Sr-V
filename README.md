@@ -14,7 +14,5 @@ const Sr_V = {
 ```
 
 ### Some stats:
-<details>
-  <summary> 🧮 Profile Visitor Count...</summary>
+<h2> 🧮 Profile Visitor Count...</h2>
 <img src="https://profile-counter.glitch.me/{Sr-V}/count.svg">
- </details>
