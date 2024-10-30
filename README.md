@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hola, soy Víctor
 
-<!--
-**Sr-V/Sr-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un estudiante de **Desarrollo de Aplicaciones Multiplataforma** de grado superior y tengo una titulación en **Sistemas Microinformáticos y Redes**. Desde que comencé mi viaje en la programación, he estado apasionado por crear soluciones innovadoras y eficientes.
 
-Here are some ideas to get you started:
+## 📚 Proyectos destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **ChatUtils:** Un plugin de Minecraft que mejora la experiencia de chat. [Privado]
+- **Cronómetro TABATA:** Una aplicación Android que implementa un cronómetro para entrenamientos TABATA. [En Desarrollo]
+- **Bot de Discord:** Un bot que interactúa con usuarios y gestiona eventos. [Privado]
+
+## 📫 Contáctame
+
+- **Discord:** sr_v 
+
+¡No dudes en contactarme para colaborar o charlar sobre proyectos interesantes!
